@@ -1,0 +1,14 @@
+C:\Users\moein\source\repos\calling.api\calling.api\bin\Debug\net8.0\calling.api.exe
+C:\Users\moein\source\repos\calling.api\calling.api\bin\Debug\net8.0\calling.api.deps.json
+C:\Users\moein\source\repos\calling.api\calling.api\bin\Debug\net8.0\calling.api.runtimeconfig.json
+C:\Users\moein\source\repos\calling.api\calling.api\bin\Debug\net8.0\calling.api.dll
+C:\Users\moein\source\repos\calling.api\calling.api\bin\Debug\net8.0\calling.api.pdb
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.AssemblyInfoInputs.cache
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.AssemblyInfo.cs
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.csproj.CoreCompileInputs.cache
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.dll
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\refint\calling.api.dll
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.pdb
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\calling.api.genruntimeconfig.cache
+C:\Users\moein\source\repos\calling.api\calling.api\obj\Debug\net8.0\ref\calling.api.dll
